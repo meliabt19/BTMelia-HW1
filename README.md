@@ -1,1 +1,2 @@
 # BTMelia-HW1
+*The Homework was more difficult than I imagined it was going to be, though I did eventually push through it. I accidentally broke it while looking over it and could not figure out what I did so I wasn't able to fix it in time. I eagerly await feedback so I can correct myself and do better the next time. 
